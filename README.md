@@ -39,11 +39,11 @@ About
 Developed by Maria Singh at Purdue University Global as part of Advanced Network Management IT535 under Dr. Mario Booker.
 References
 
-Aboulhosn, Z. et al., (2024). Detection of manufacturing defects in steel using deep learning with explainable artificial intelligence. IEEE Access.
-Choudhury, A., Dey, D., & Mukherjee, A. (2019). Machine learning in supply chain risk management: State-of-the-art and research challenges.
-International Organization for Standardization. (2015). ISO 9001:2015 Quality management systems -- Requirements.
-Ivanov, D., & Dolgui, A. (2020). A digital supply chain twin for managing the disruption risks and resilience in the era of Industry 4.0.
+####Aboulhosn, Z. et al., (2024). Detection of manufacturing defects in steel using deep learning with explainable artificial intelligence. IEEE Access.
+####Choudhury, A., Dey, D., & Mukherjee, A. (2019). Machine learning in supply chain risk management: State-of-the-art and research challenges.
+####International Organization for Standardization. (2015). ISO 9001:2015 Quality management systems -- Requirements.
+####Ivanov, D., & Dolgui, A. (2020). A digital supply chain twin for managing the disruption risks and resilience in the era of Industry 4.0.
 =======
-# Project Title: Phishing Detection ML Project
-# Project Description: This project uses a machine learning model to detect phishing websites. It demonstrates my data preparation, model training, and evaluation skills using a decision tree algorithm.
+### Project Title: Phishing Detection ML Project
+### Project Description: This project uses a machine learning model to detect phishing websites. It demonstrates my data preparation, model training, and evaluation skills using a decision tree algorithm.
 9943865e1c78115fe6975b2036c92fa2e47ebe1b
